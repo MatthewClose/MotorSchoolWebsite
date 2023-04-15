@@ -50,7 +50,7 @@ const Header = () => {
           <li>
             <Link
               onClick={() => setMenuOpened(false)}
-              to="programs"
+              to="icons"
               spy={true}
               smooth={true}
             >
