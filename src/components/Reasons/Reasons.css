@@ -1,4 +1,4 @@
-.Reasons {
+/* .Reasons {
   padding: 0 4rem;
   display: flex;
   gap: 2rem;
@@ -16,7 +16,6 @@
   height: auto;
 }
 
-/* right side */
 .right-r {
   flex: 1;
   text-transform: uppercase;
@@ -68,4 +67,4 @@
   .right-r {
     text-overflow: ellipsis;
   }
-}
+} */
