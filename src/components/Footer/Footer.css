@@ -1,8 +1,8 @@
-/* .Footer-container{
+.Footer-container {
   position: relative;
-  background-color: var(--red);  
+  background-color: var(--red);
 }
-.Footer-container>hr{
+.Footer-container > hr {
   border: 1px solid var(--lightgray);
 }
 .footer {
@@ -14,7 +14,7 @@
   height: 30rem;
   color: white;
 }
-.social-links{
+.social-links {
   display: inline-block;
   gap: 3rem;
   position: absolute;
@@ -22,22 +22,21 @@
 }
 
 .social-links > p {
-  display:inline;
-  margin-left:10px;
+  display: inline;
+  margin-left: 10px;
   top: 10px;
 }
 .social-links > img {
-  vertical-align: middle; 
+  vertical-align: middle;
   width: 3rem;
   gap: 3rem;
   height: 3rem;
   cursor: pointer;
   padding-right: 0.6rem;
   padding-left: 0.6rem;
-  
 }
 
-.email{
+.email {
   display: flex;
   gap: 4rem;
   position: absolute;
@@ -51,7 +50,7 @@
   margin-top: 50%;
 }
 
-.phone{
+.phone {
   display: flex;
   gap: 4rem;
   position: absolute;
@@ -65,7 +64,7 @@
   margin-top: 25%;
 }
 
-.learn{
+.learn {
   display: flex;
   gap: 4rem;
   position: absolute;
@@ -79,10 +78,10 @@
   margin-top: 25%;
 }
 
-.logo-f>img{
+.logo-f > img {
   width: 10rem;
 }
-.logo-f{
+.logo-f {
   font-weight: bold;
   font-size: 1.5rem;
   text-transform: uppercase;
@@ -90,7 +89,7 @@
   margin-right: 50%;
 }
 
-.date-time{
+.date-time {
   display: flex;
   position: relative;
   gap: 1rem;
@@ -98,44 +97,44 @@
   color: white;
 }
 
-.date-time>:nth-child(1){
+.date-time > :nth-child(1) {
   font-weight: bold;
   font-size: 1.5rem;
   text-transform: uppercase;
   padding-top: 0.5rem;
 }
 
-.date-time>:nth-child(2){
+.date-time > :nth-child(2) {
   font-size: 1.2rem;
 }
 
-.date-time>:nth-child(3){
+.date-time > :nth-child(3) {
   font-weight: bold;
   font-size: 1.5rem;
   text-transform: uppercase;
   padding-top: 0.5rem;
 }
 
-.date-time>:nth-child(4){
+.date-time > :nth-child(4) {
   font-size: 1.2rem;
 }
 
 .date-time > img {
-width: 2rem;
-height: 2rem;
+  width: 2rem;
+  height: 2rem;
 }
 
-.extra-learning{
+.extra-learning {
   display: flex;
   gap: 1rem;
 }
 .extra-learning > img {
-width: 2rem;
-height: 2rem;
-cursor: pointer;
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
 }
 
-.contact-links{
+.contact-links {
   display: flex;
   gap: 1rem;
 }
@@ -146,13 +145,13 @@ cursor: pointer;
 }
 
 @media screen and (max-width: 1150px) {
-  .Footer-container{
+  .Footer-container {
     position: relative;
   }
-.Footer-container>hr{
+  .Footer-container > hr {
     border: 1px solid var(--lightgray);
   }
-.footer {
+  .footer {
     display: flex;
     flex-direction: column;
     gap: 4rem;
@@ -161,81 +160,80 @@ cursor: pointer;
     height: 30rem;
     color: white;
     margin: -4rem;
-}
+  }
 
-.social-links > p {
+  .social-links > p {
     display: none;
-}
+  }
 
-.social-links{
+  .social-links {
     display: flex;
     gap: 0.1rem;
     position: relative;
     margin-left: 0%;
     margin: -1.5rem;
-}
-.social-links > img {
+  }
+  .social-links > img {
     width: 3rem;
     height: 3rem;
     cursor: pointer;
-}
+  }
 
-
-.logo-f>img{
+  .logo-f > img {
     width: 10rem;
-}
-.logo-f{
+  }
+  .logo-f {
     font-weight: bold;
     font-size: 1rem;
     text-transform: uppercase;
     position: relative;
     margin: 0%;
-}
+  }
 
-.date-time{
+  .date-time {
     display: flex;
     position: relative;
     gap: 1rem;
     flex-direction: column;
     color: white;
-}
+  }
 
-.date-time>:nth-child(1){
+  .date-time > :nth-child(1) {
     font-weight: bold;
     font-size: 1rem;
     text-transform: uppercase;
     padding-top: 0.5rem;
-}
+  }
 
-.date-time>:nth-child(3){
+  .date-time > :nth-child(3) {
     font-weight: bold;
     font-size: 1rem;
     text-transform: uppercase;
     padding-top: 0.5rem;
-}
+  }
 
-.date-time > img {
+  .date-time > img {
     width: 2rem;
     height: 2rem;
-}
+  }
 
-.extra-learning{
+  .extra-learning {
     display: flex;
     gap: 1rem;
-}
-.extra-learning > img {
+  }
+  .extra-learning > img {
     width: 2rem;
     height: 2rem;
     cursor: pointer;
-}
+  }
 
-.contact-links{
-  display: flex;
-  gap: 1rem;
+  .contact-links {
+    display: flex;
+    gap: 1rem;
+  }
+  .contact-links > img {
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+  }
 }
-.contact-links > img {
-  width: 2rem;
-  height: 2rem;
-  cursor: pointer;
-}
-} */

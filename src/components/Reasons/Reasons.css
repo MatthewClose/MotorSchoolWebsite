@@ -1,4 +1,4 @@
-/* .Reasons {
+.Reasons {
   padding: 0 4rem;
   display: flex;
   gap: 2rem;
@@ -67,4 +67,4 @@
   .right-r {
     text-overflow: ellipsis;
   }
-} */
+}
