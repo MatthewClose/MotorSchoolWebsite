@@ -1,4 +1,4 @@
-/* .about {
+.about {
   display: flex;
   gap: 1rem;
   padding: 0 2rem;
@@ -162,4 +162,4 @@
     top: 5.5rem;
     margin-left: -5%;
   }
-} */
+}

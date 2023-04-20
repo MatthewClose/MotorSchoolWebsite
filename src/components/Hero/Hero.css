@@ -1,4 +1,4 @@
-.hero {
+/* .hero {
   display: flex;
   justify-content: space-between;
 }
@@ -84,7 +84,6 @@
   border-radius: 15px;
 }
 
-/* right side */
 .right-h > .btn {
   position: absolute;
   right: 3rem;
@@ -245,4 +244,4 @@
     top: 35%;
     padding-left: 10%;
   }
-}
+} */
