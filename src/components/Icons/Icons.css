@@ -1,4 +1,4 @@
-/* .Icons {
+.Icons {
   display: flex;
   flex-direction: column;
   gap: 2rem;
@@ -81,4 +81,4 @@
   .icon-categories {
     flex-direction: column;
   }
-} */
+}
