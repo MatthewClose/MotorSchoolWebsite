@@ -1,6 +1,5 @@
 {
   "name": "billyhughesmotorschool",
-  "homepage": "https://www.billyhughesmotorschool.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
