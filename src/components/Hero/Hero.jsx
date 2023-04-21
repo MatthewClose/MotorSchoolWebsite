@@ -2,7 +2,7 @@ import React from "react";
 import Header from "../Header/Header";
 import "./Hero.css";
 import hero_image from "../../assets/car2.png";
-import NumberCounter from "number-counter";
+// import NumberCounter from "number-counter";
 import { Link } from "react-scroll";
 const Hero = () => {
   return (
@@ -42,25 +42,28 @@ const Hero = () => {
         <div className="figures">
           <div>
             <span>
-              <NumberCounter end={20} start={5} delay={2} preFix="+" />
+              20+
+              {/* <NumberCounter end={20} start={5} delay={2} preFix="+" /> */}
             </span>
             <span>Years Experience</span>
           </div>
           <div>
             <span>
-              <NumberCounter end={1600} start={1400} delay={4} preFix="+" />
+              1600+
+              {/* <NumberCounter end={1600} start={1400} delay={4} preFix="+" /> */}
             </span>
             <span>Pupils Taught and Passed</span>
           </div>
           <div>
             <span>
-              <NumberCounter
+              70%+
+              {/* <NumberCounter
                 end={70}
                 start={30}
                 delay={2}
                 postFix="%"
                 preFix="+ "
-              />
+              /> */}
             </span>
             <span>First time pass rate</span>
           </div>
