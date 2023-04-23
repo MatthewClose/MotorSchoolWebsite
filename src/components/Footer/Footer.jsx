@@ -32,10 +32,7 @@ const Footer = () => {
           <br />
           <img
             onClick={() =>
-              window.open(
-                "https://youtube.com/playlist?list=PLO7ei7qOyi81iy-LYONqjYZISxaX55X8G",
-                "_blank"
-              )
+              window.open("https://linktr.ee/billyhughesmotorschool", "_blank")
             }
             src={ExtraLearning}
             alt="Extra Learning Resources"
