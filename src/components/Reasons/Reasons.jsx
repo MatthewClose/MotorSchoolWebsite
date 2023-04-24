@@ -20,6 +20,10 @@ const Reasons = () => {
           </div>
           <div>
             <img src={tick} alt="" />
+            <span>Motorway and driver refresher courses available</span>
+          </div>
+          <div>
+            <img src={tick} alt="" />
             <span>Manual and Automatic instruction available</span>
           </div>
           <div>
@@ -29,10 +33,7 @@ const Reasons = () => {
               anxious drivers
             </span>
           </div>
-          <div>
-            <img src={tick} alt="" />
-            <span>Fantastic pass rate</span>
-          </div>
+
           <div>
             <img src={tick} alt="" />
             <span>

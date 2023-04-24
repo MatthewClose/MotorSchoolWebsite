@@ -77,6 +77,18 @@ const Header = () => {
               Contact
             </Link>
           </li>
+          <li>
+            <Link
+              onClick={() =>
+                window.open(
+                  "https://linktr.ee/billyhughesmotorschool",
+                  "_blank"
+                )
+              }
+            >
+              Resources
+            </Link>
+          </li>
         </ul>
       )}
     </div>
