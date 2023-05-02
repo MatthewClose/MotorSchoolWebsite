@@ -52,18 +52,6 @@ const Hero = () => {
             </span>
             <span>Pupils Taught and Passed</span>
           </div>
-          <div>
-            <span>
-              <NumberCounter
-                end={70}
-                start={30}
-                delay={2}
-                postFix="%"
-                preFix="+ "
-              />
-            </span>
-            <span>First time pass rate</span>
-          </div>
         </div>
       </div>
 
