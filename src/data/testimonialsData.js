@@ -15,7 +15,7 @@ export const testimonialsData = [
     review:
       "Billy was a brilliant instructor, he's very patient and the way he explains things really stick with me now after I've passed my test 1st time! I'd definitely recommend anyone starting out on their driving journey to go with Billy!",
     name: "Anna",
-    status: "Craigavon",
+    status: "Lurgan",
   },
   {
     review:
@@ -33,7 +33,7 @@ export const testimonialsData = [
     review:
       "I highly recommend billy I first started with no driving experience, never behind a car wheel before . The time and patience's billy shows you each time you get in his car just makes you enjoy learning with him he is always on time and never cancelled a lesson with me I highly recommend him to anyone that wants to learn and you'll 100% get the pass with this man cheers for everything billy",
     name: "James",
-    status: "Craigavon",
+    status: "Lurgan",
   },
   {
     review:
