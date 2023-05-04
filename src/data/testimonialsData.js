@@ -1,7 +1,7 @@
 export const testimonialsData = [
   {
     review:
-      "just passed my test having taking lessons with Billy, learning to drive couldnt have been easier with Billy. Always felt confident and relaxed- no stress coming up to lessons or the test. Highly recommend!",
+      "just passed my test having taking lessons with Billy, learning to drive couldn't have been easier with Billy. Always felt confident and relaxed- no stress coming up to lessons or the test. Highly recommend!",
     name: "Aoife M",
     status: "Lurgan",
   },
@@ -9,6 +9,24 @@ export const testimonialsData = [
     review:
       "Thank you Billy Hughes for helping me pass my driving test first time. Thanks for the patience and craic lol. Appreciate it all soooo much. Will highly recommend you.👍👍",
     name: "Edel",
+    status: "Craigavon",
+  },
+  {
+    review:
+      "Billy was a brilliant instructor, he's very patient and the way he explains things really stick with me now after I've passed my test 1st time! I'd definitely recommend anyone starting out on their driving journey to go with Billy!",
+    name: "Anna",
+    status: "Craigavon",
+  },
+  {
+    review:
+      "Billy not only prepared me for my test, but gave me the confidence to drive. And always a pleasure to talk to during lessons! He was punctual, patient and calm, and it felt like he really cared",
+    name: "Neabh",
+    status: "Craigavon",
+  },
+  {
+    review:
+      "Can't recommend billy enough! Learning to drive came with its challenges and Billy couldn't have been more supportive through it all and has patients of a saint!",
+    name: "Ellen",
     status: "Craigavon",
   },
   {
