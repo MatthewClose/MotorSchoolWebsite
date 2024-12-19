@@ -38,7 +38,7 @@ const About = () => {
           through their driving tests
         </span>
         <span>
-          Manual and Automatic instruction available, list of prices available
+          Manual instruction available, list of prices available
           on request.
         </span>
         <span>-------</span>
