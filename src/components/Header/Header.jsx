@@ -26,6 +26,11 @@ const Header = () => {
         </div>
       ) : (
         <ul className="header-menu">
+          {menuOpened && mobile && (
+            <li className="close-button" onClick={() => setMenuOpened(false)}>
+              X
+            </li>
+          )}
           <li>
             <Link
               onClick={() => setMenuOpened(false)}
