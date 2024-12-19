@@ -24,7 +24,7 @@ const Reasons = () => {
           </div>
           <div>
             <img src={tick} alt="" />
-            <span>Manual and Automatic instruction available</span>
+            <span>Manual instruction available</span>
           </div>
           <div>
             <img src={tick} alt="" />
