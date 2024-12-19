@@ -24,7 +24,7 @@ const Footer = () => {
           <p>Email</p>
           <br />
           <img
-            onClick={() => window.open("tel:+44 793215684", "_blank")}
+            onClick={() => window.open("tel:+44 0793215684", "_blank")}
             src={Mobile}
             alt="Phone"
           />
