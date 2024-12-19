@@ -35,7 +35,7 @@ export const Contact = () => {
           Kingdom
         </span>
         <span>
-          Mobile: <a href="tel:+44 0793215684">+44 0793215684</a>{" "}
+          Mobile: <a href="tel:+44 7932156584">+44 7932156584</a>{" "}
         </span>
         <span>
           Email: <a href="mailto: billyh147@yahoo.com">billyh147@yahoo.com</a>
